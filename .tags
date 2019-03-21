@@ -1,0 +1,34 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Learn.co Educational Content License	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/LICENSE.md	/^#Learn.co Educational Content License$/;"	function	line:1
+clear_database	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/spec/spec_helper.rb	/^def clear_database$/;"	method	line:15
+recreate_table	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/spec/spec_helper.rb	/^def recreate_table$/;"	method	line:20
+Intro to Rake	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^# Intro to Rake$/;"	function	line:1
+Objectives	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^## Objectives$/;"	function	line:3
+What is Rake?	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^## What is Rake?$/;"	function	line:9
+Why Rake?	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^## Why Rake?$/;"	function	line:18
+Where did Rake Come From?	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^## Where did Rake Come From?$/;"	function	line:35
+How to Define and Use Rake Tasks	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^## How to Define and Use Rake Tasks$/;"	function	line:44
+Describing our Tasks for `rake -T`	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^### Describing our Tasks for `rake -T`$/;"	function	line:77
+Namespacing Rake Tasks	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^### Namespacing Rake Tasks$/;"	function	line:98
+Common Rake Tasks	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^## Common Rake Tasks$/;"	function	line:141
+`rake db:migrate`	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^### `rake db:migrate`$/;"	function	line:146
+Task Dependency	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^#### Task Dependency$/;"	function	line:172
+in Rakefile	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^# in Rakefile$/;"	function	line:190
+`rake db:seed`	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^### `rake db:seed`$/;"	function	line:200
+`rake console`	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/README.md	/^### `rake console`$/;"	function	line:246
+Contributing to Learn.co Curriculum	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/CONTRIBUTING.md	/^# Contributing to Learn.co Curriculum$/;"	function	line:1
+Raising an Issue to Encourage a Contribution	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/CONTRIBUTING.md	/^## Raising an Issue to Encourage a Contribution$/;"	function	line:5
+Submitting a Pull Request to Suggest an Improvement	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/CONTRIBUTING.md	/^## Submitting a Pull Request to Suggest an Improvement$/;"	function	line:13
+Why Contribute?	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/CONTRIBUTING.md	/^# Why Contribute?$/;"	function	line:25
+Student	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/lib/student.rb	/^class Student$/;"	class	line:3
+initialize	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/lib/student.rb	/^  def initialize(name, grade, id=nil)$/;"	method	line:12	class:Student
+create_table	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/lib/student.rb	/^  def self.create_table$/;"	singleton method	line:18	class:Student
+drop_table	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/lib/student.rb	/^  def self.drop_table$/;"	singleton method	line:29	class:Student
+save	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/lib/student.rb	/^  def save$/;"	method	line:34	class:Student
+create	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/lib/student.rb	/^  def self.create(name:, grade:)$/;"	singleton method	line:44	class:Student
+all	/Users/manon/Development/code/intro-to-rake-london-web-career-031119/lib/student.rb	/^  def self.all$/;"	singleton method	line:49	class:Student
